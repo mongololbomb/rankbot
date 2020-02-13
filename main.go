@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/bwmarrin/discordgo"
-	"github.com/17twenty/color/log"
+	"github.com/mongololbomb/color/log"
 )
 
 var (
